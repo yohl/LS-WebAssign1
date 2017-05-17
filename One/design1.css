@@ -22,3 +22,5 @@
     height: 80px;
     margin: auto;
 }
+
+//could have used % instead px to make the blocks adjust accordingly to browser size.
