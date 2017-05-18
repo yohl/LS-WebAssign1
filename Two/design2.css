@@ -1,0 +1,32 @@
+.top{
+    background-color: red;
+    height: 100px;
+    width: 935px;
+}
+
+.left{
+    background-color: blue;
+    height: 700px;
+    width: 333px;
+    margin-right:800px;
+}
+
+.center{
+    background-color: purple;
+    height: 700px;
+    width: 333px;
+    margin:0 300px;
+}
+
+.right{
+    background-color: yellow;
+    height: 700px;
+    width: 333px;
+    margin-left: 300px; 
+}
+.bottom{
+    background-color: green;
+    height: 100px;
+    width: 935px;
+    
+}
