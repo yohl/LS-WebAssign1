@@ -1,0 +1,38 @@
+.top{
+    background-color: purple;
+    width: 1000px;
+    height: 100px;
+}
+
+.main{
+    background-color: red;
+    height: 1000px;
+    width: 700px;
+    margin: 0 150 0;
+    
+}
+
+.main2{
+    background-color: blue;
+    height: 250;
+    width: 400;
+    margin: 0 auto 50;
+    
+}
+
+.left{
+    background-color: yellow;
+    height: 120;
+    width: 120;
+    float: left;
+    margin: 20 ;
+    
+}
+
+.right{
+    background-color: green;
+    height: 120;
+    width: 180;
+    float: right;
+    margin: 20
+}
